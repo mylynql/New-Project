@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:100,400,900');
+
+/*back-ground: transparent;/ */
+.my-body{
+	font-family: "Lato";
+	margin: 0;
+	text-align: center;
+	/*background image*/
+	height: 80vh;
+	background-image: url('EO_Background.jpeg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+
+}
+.my-container{
+	font-size: 5rem;
+	max-width: 1000px;
+	margin: auto;
+    color: green;
+	text-align: center;
+	font-weight: 600;
+}
+.banner{
+	font-size: 4rem;
+	max-width: 1000px;
+	margin: auto;
+    color: white;
+	text-align: center;
+}
+
+/* My Photo	 */
+.my-container1{
+	border: 1px solid #aaa;
+	background-color: white;
+	max-width: 400px;
+	margin: 110px auto 10px auto;
+	padding: 1rem;
+	box-shadow: 5px 5px 5px rgba(0,0,0,0.1);
+	font-family: "Lato";
+}
+.my-container1 h1{
+	text-align: center;
+}
+.my-container1 ul{
+	max-width: 200px;
+	margin: auto;
+}
+.my-hr1{
+	max-width: 300px;
+	border: 10px solid orangered;
+}
+
+.my-face1{
+display: block;
+width: 150px;
+height: 150px;
+margin: auto;
+border-radius: 50%;
+border: 1px solid #aaa;
+margin-top: -100px;
+
+}
+
